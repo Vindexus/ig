@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dvarelap/ig.svg?branch=master)](https://travis-ci.org/dvarelap/ig)
+Forked by Vindexus so I could work on it.
 
 # Instagram Basic Display API in Golang
 
@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dvarelap/ig"
+	"github.com/Vindexus/ig"
 )
 
 func main() {
@@ -53,7 +53,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dvarelap/ig"
+	"github.com/Vindexus/ig"
 )
 
 func main() {
@@ -95,7 +95,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dvarelap/ig"
+	"github.com/Vindexus/ig"
 )
 
 func main() {

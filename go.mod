@@ -1,4 +1,4 @@
-module github.com/dvarelap/ig
+module github.com/Vindexus/ig
 
 go 1.13
 

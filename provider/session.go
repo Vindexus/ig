@@ -2,11 +2,12 @@ package provider
 
 import (
 	"encoding/json"
-	"github.com/dvarelap/ig"
-	"github.com/markbates/goth"
-	"github.com/pkg/errors"
 	"strings"
 	"time"
+
+	"github.com/Vindexus/ig"
+	"github.com/markbates/goth"
+	"github.com/pkg/errors"
 )
 
 // Session stores data during the auth process with Instagram
